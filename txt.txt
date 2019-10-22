@@ -1,0 +1,8 @@
+npm install == yarn
+npm install package --save == yarn add package
+npm install package --save -dev == yarn add package --dev
+npm uninstall package --save == yarn remove package
+npm update --save == yarn upgrade
+npm install package -g == yarn global add package
+
+//////////////////////////////////////
